@@ -39,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+## Database
+|  |
+| ------- |
+| [1965-employees-with-missing-information](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
