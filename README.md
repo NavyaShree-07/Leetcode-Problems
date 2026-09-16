@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0162-find-peak-element](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0704-binary-search) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0704-binary-search) |
