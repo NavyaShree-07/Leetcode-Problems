@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0178-rank-scores](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0178-rank-scores) |
 | [1757-recyclable-and-low-fat-products](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
+| [1890-the-latest-login-in-2020](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1965-employees-with-missing-information) |
 ## Sliding Window
 |  |
