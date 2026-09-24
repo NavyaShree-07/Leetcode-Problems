@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0492-construct-the-rectangle](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0492-construct-the-rectangle) |
 | [1323-maximum-69-number](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1323-maximum-69-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Greedy
 |  |
 | ------- |
