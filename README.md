@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0492-construct-the-rectangle](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0492-construct-the-rectangle) |
 | [1323-maximum-69-number](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1323-maximum-69-number) |
+| [2396-strictly-palindromic-number](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Greedy
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
