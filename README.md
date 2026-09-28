@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -130,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
