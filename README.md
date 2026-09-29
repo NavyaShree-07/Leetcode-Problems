@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1046-last-stone-weight) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Prefix Sum
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
