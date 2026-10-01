@@ -186,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## String
+|  |
+| ------- |
+| [0709-to-lower-case](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->
