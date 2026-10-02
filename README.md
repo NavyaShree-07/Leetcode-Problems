@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1046-last-stone-weight) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1470-shuffle-the-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
+| [1920-build-array-from-permutation](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Prefix Sum
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [1920-build-array-from-permutation](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
