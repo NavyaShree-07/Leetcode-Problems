@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
