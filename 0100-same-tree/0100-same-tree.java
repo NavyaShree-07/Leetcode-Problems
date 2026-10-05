@@ -28,4 +28,3 @@
       return fun(p,q);
     }
 }
-
