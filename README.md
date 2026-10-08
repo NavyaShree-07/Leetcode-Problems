@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 ## Binary Search Tree
 |  |
@@ -218,9 +220,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [1791-find-center-of-star-graph](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1791-find-center-of-star-graph) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
