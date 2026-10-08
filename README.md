@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0709-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [2129-capitalize-the-title](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2129-capitalize-the-title) |
 ## Counting Sort
 |  |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1791-find-center-of-star-graph) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
