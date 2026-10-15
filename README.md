@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -270,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0207-course-schedule) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
