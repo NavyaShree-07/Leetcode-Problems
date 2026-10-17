@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Greedy
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 ## Divide and Conquer
 |  |
