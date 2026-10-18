@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0709-to-lower-case](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1528-shuffle-string](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1528-shuffle-string) |
@@ -282,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
