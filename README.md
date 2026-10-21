@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0178-rank-scores) |
+| [0620-not-boring-movies](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1068-product-sales-analysis-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1795-rearrange-products-table) |
