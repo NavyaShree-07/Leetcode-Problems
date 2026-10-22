@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0162-find-peak-element) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0283-move-zeroes) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -296,4 +299,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
