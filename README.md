@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0661-image-smoother](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0661-image-smoother) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
@@ -314,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
