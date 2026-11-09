@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
+| [2652-sum-multiples](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2652-sum-multiples) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Greedy
 |  |
