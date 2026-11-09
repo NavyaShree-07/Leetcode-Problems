@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2032-two-out-of-three](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
+| [2032-two-out-of-three](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
+| [2032-two-out-of-three](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
