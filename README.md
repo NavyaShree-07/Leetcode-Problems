@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0283-move-zeroes) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
