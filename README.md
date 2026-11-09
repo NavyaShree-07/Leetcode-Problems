@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2460-apply-operations-to-an-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
+| [2460-apply-operations-to-an-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
+| [2460-apply-operations-to-an-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
