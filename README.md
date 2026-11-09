@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2460-apply-operations-to-an-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2574-left-and-right-sum-differences](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1859-sorting-the-sentence](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Database
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [1572-matrix-diagonal-sum](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Linked List
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [2460-apply-operations-to-an-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1046-last-stone-weight) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Quickselect
 |  |
 | ------- |
