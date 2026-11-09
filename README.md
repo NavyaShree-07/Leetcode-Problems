@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2000-reverse-prefix-of-word](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2129-capitalize-the-title) |
 | [2351-first-letter-to-appear-twice](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
