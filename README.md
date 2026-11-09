@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
