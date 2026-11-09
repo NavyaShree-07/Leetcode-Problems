@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [1603-design-parking-system](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 ## Divide and Conquer
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1603-design-parking-system](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1603-design-parking-system) |
 | [2351-first-letter-to-appear-twice](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Graph Theory
 |  |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [1603-design-parking-system](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1603-design-parking-system) |
 ## Dynamic Programming
 |  |
 | ------- |
