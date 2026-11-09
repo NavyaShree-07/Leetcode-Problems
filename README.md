@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0492-construct-the-rectangle](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0492-construct-the-rectangle) |
 | [1323-maximum-69-number](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/1323-maximum-69-number) |
@@ -330,5 +331,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
