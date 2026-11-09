@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2396-strictly-palindromic-number](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
+| [2413-smallest-even-multiple](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Greedy
 |  |
@@ -380,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2185-counting-words-with-a-given-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/NavyaShree-07/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
